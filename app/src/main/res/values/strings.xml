@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemasterTest</string>
+    <string name="before_image">Before</string>
+    <string name="after_image">After</string>
+</resources>
